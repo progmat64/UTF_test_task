@@ -4,8 +4,7 @@
 
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone git@github.com:progmat64/UTF_test_task.git
 ```
 
 ### Создание виртуального окружения и установка зависимостей
